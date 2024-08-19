@@ -5,6 +5,7 @@
 + Proficient in Adobe Photoshop
 + Proficient in Adobe Illustrator
 + Light experience in Blender
+
 ### Term 1
 
 
