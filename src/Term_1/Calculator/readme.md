@@ -1,1 +1,1 @@
-Basic Calculator With 
+Basic Calculator with Graphical Interface and Keyboard Functionality 
