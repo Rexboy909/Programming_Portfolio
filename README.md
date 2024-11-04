@@ -9,7 +9,7 @@
 ### Term 1
 #### + Etch-A-Sketch
 Graphics project with kepyress drawing controls and the ability to save an image.
-![APP]()
+![APP](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/Calc.png?raw=true)
 
 #### +Calculator
 
