@@ -7,6 +7,10 @@
 + Light experience in Blender
 
 ### Term 1
+#### + Etch-A-Sketch
+Graphics project with kepyress drawing controls and the ability to save an image.
+![APP]()
 
+#### +Calculator
 
 ### Term 2
