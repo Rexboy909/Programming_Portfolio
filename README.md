@@ -14,7 +14,7 @@ Object oriented Calculator with Graphical interface and keyboard functionality.
 
 #### Space Game
 Simple OOP solution for space-themed collision-based game with level system.
-![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/Calc.png?raw=true)
+![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/Spacegame.png?raw=true)
 [Source Code](src/Term_1/Calculator)
 
 
