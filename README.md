@@ -10,16 +10,19 @@
 
 #### Temp_Converter
 A simplistic conversion of temperature using the user's mouse, paired with a simple and very basic graphical interface and instructions.
+
 ![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/Temp_converter.png?raw=true)
 [Source Code](src/Term_1/Temp_Converter)
 
 #### Calculator
 Object oriented Calculator with Graphical interface and keyboard functionality.
+
 ![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/Calc.png?raw=true)
 [Source Code](src/Term_1/Calculator)
 
 #### Space Game
 Simple OOP solution for space-themed collision-based game with level system.
+
 ![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/Spacegame.png?raw=true)
 [Source Code](src/Term_1/SpaceGame)
 
