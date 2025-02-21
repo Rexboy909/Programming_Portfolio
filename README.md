@@ -28,3 +28,8 @@ Simple OOP solution for space-themed collision-based game with level system.
 
 
 ### Term 2
+
+#### Shape Tester
+Class-based terminal-run mathematical shape calculator for volume and surface area.
+![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/ShapeTester.png?raw=true)
+[Source Code](src/Term_2/ShapeTester)
