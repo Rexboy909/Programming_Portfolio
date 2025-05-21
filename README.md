@@ -37,7 +37,7 @@ Class-based terminal-run mathematical shape calculator for volume and surface ar
 ## Group projects
 
 #### Madlib app
-terminal-run Madlib app written in C++.
+OOP Voxel-based 3D game built in c++ with openGL.
 [Source Code](https://github.com/SaltyNickel702/CppGroup/tree/main/Madlibs)
 
 #### Blockscape
