@@ -33,3 +33,13 @@ Simple OOP solution for space-themed collision-based game with level system.
 Class-based terminal-run mathematical shape calculator for volume and surface area.
 ![Image of running app](https://github.com/Rexboy909/Programming_Portfolio/blob/main/images/ShapeTester.png?raw=true)
 [Source Code](src/Term_2/ShapeTester)
+
+## Group projects
+
+#### Madlib app
+terminal-run Madlib app written in C++.
+[Source Code](https://github.com/SaltyNickel702/CppGroup/tree/main/Madlibs)
+
+#### Blockscape
+terminal-run Madlib app written in C++.
+[Source Code](https://github.com/SaltyNickel702/BlockScape)
